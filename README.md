@@ -23,3 +23,8 @@ OpenCV/Pillow for image processing
 scikit-learn for performance metrics
 This project aims to demonstrate the effectiveness of deep learning techniques in image classification tasks and can be extended to various other domains requiring visual recognition.
 
+Comparison:
+
+I used two frameworks and two models, ResNet-50 and ResNet-18. Then I ran the models for multiple epochs to compare the outcomes. 
+
+Here is the comparison link: https://docs.google.com/spreadsheets/d/1AE_scew3SFXwddu3RSkGqafFc0k2Y1Zy6LMBLyp_PXk/edit?gid=0#gid=0 
